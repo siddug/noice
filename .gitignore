@@ -1,0 +1,15 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Assembled app bundle (produced by build.sh)
+Noice.app/
+*.app
+
+# macOS
+.DS_Store
+
+# Xcode (if opened there)
+xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+DerivedData/
